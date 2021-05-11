@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T02:15:06.896Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="jkwVpJr7bt_CoazN7PyT" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T02:15:13.794Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="EsAP8CQ9vdcfRVZNjM5i" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="414" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
         </mxCell>
         <UserObject label="&lt;font color=&quot;#999999&quot;&gt;area 一覧と query.id から現在の スライドを特定して&lt;br&gt;描画時に表示&lt;/font&gt;" placeholders="1" id="VVKggrItEhhPszAlmE28-115">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#3333FF;opacity=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="860" y="450" width="170" height="50" as="geometry" />
+            <mxGeometry x="855" y="440" width="170" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
