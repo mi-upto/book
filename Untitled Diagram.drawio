@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T02:16:44.820Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rgIq5i3ktWWcviZrEufp" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T02:26:06.758Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="7Up0yy3jBqtyrRvglK6X" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="1271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,16 +213,13 @@
         <mxCell id="VVKggrItEhhPszAlmE28-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VVKggrItEhhPszAlmE28-110" target="VVKggrItEhhPszAlmE28-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font color=&quot;#999999&quot;&gt;area 一覧と query.id から現在の スライドを特定して&lt;br&gt;描画時に表示&lt;/font&gt;" placeholders="1" id="VVKggrItEhhPszAlmE28-115">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#3333FF;opacity=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="855" y="440" width="170" height="50" as="geometry" />
+        <UserObject label="&lt;font&gt;area 一覧と query.id から現在の スライドを特定して&lt;br&gt;描画時に表示&lt;/font&gt;" placeholders="1" id="VVKggrItEhhPszAlmE28-115">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;opacity=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="855" y="440" width="185" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="VVKggrItEhhPszAlmE28-116" value="&lt;span style=&quot;color: rgb(230 , 219 , 116) ; background-color: rgb(39 , 40 , 34) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px&quot;&gt;dispatch area/fetch&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="815" y="60" width="270" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VVKggrItEhhPszAlmE28-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VVKggrItEhhPszAlmE28-116" target="VVKggrItEhhPszAlmE28-116">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
